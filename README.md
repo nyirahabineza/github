@@ -2,7 +2,7 @@
 Second Project for Moringa core class , February 7, 2019
 By nyirahabineza cecile
 
-### Description
+### 
 The Github search project is a web project that user can have to enter the username github, as long as he/she enter the name that he/she used in github it automatically provide the name she/he entered.it provide the number of the repository he/she have in github.
 
 ### Specifications
@@ -28,4 +28,5 @@ No bugs so far. but you can steel make a research on how the one who has more up
 ### Support and contact details
 Contact 0782136949
 
-### 
+### License
+**MIT ** (c) nyirahabineza cecile
