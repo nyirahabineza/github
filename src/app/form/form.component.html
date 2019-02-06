@@ -2,12 +2,12 @@
     <form (ngSubmit)="submitUser()">
       <h3>welcome github-research</h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhc3-qzllEor3vJdfYJBtfZgeMONU8xMSZwnmn5Zplq5b1Kwk6">
-          <h3>Github-Username</h3>
+          
       <div class="form-group">
         <input type="text"  class="form-control" id="user" [(ngModel)]="newUser.username" name="username" #username="ngModel" required>
         <button type="submit" class="btn btn-info" id="searchButton">SEARCH</button>
         <div [hidden]="username.valid ||username.pristine" class="alert alert-danger">
-            
+            <p>UserName used in github is Required</p>
           </div>
         
     
