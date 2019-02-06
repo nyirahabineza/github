@@ -25,8 +25,7 @@ No bugs so far. but you can steel make a research on how the one who has more up
 3. typescript
 4. node
 5. Html
-### 
+### Support and contact details
 Contact 0782136949
 
-### License
-**MIT ** (c) nyirahabineza cecile
+### 
