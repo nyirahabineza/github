@@ -1,27 +1,32 @@
-# Github
+### Github search-Project
+Second Project for Moringa core class , February 7, 2019
+By nyirahabineza cecile
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
+### Description
+The Github search project is a web project that user can have to enter the username github, as long as he/she enter the name that he/she used in github it automatically provide the name she/he entered.it provide the number of the repository he/she have in github.the followers and the following of that github and the link for more info.
 
-## Development server
+### Specifications
+The web application will request the user to enter the username github,when he/she finish typing the username they automatically receive the name she/he type.the number of the re[pository that he/she have on that github.the number of the followers (the number of the ones who he/she follow). it also show the number of following, the journey or date ,it also show the github link where you have to click on it and will automatically let you reach there original github.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* to access my website you have to have a computer or smart phone
+* access internet on that device
+* go to browser and type https://github.com/nyirahabineza/githubsearch.git
+* you have reach on it.
 
-## Code scaffolding
+### Preview
+ <a href="https://github.com/nyirahabineza/githubsearch.git" rel="nofollow">Click here</a>here to see the live site.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Known Bugs
+No bugs so far. but you can steel make a research on how the one who has more upvoted is the one who will be placed at the top. 
 
-## Build
+##Technologies Used
+1. Angular
+2. Bootstrap
+3. typescript
+4. node
+5. Html
+### Support and contact details
+Contact 0782136949
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### License
+**MIT ** (c) nyirahabineza cecile
