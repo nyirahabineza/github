@@ -19,7 +19,7 @@ The web application will request the user to enter the username github,when he/s
 ### Known Bugs
 No bugs so far. but you can steel make a research on how the one who has more upvoted is the one who will be placed at the top. 
 
-##Technologies Used
+##
 1. Angular
 2. Bootstrap
 3. typescript
