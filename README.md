@@ -25,7 +25,7 @@ The web application will request the user to enter the username github,when he/s
 4. node
 5. Html
 ### Support and contact details
-Contact 0782136949
+Contact 0782136949/
 email habcecile@gmail.com
 
 ### License
