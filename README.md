@@ -10,11 +10,11 @@ The web application will request the user to enter the username github,when he/s
 
 * to access my website you have to have a computer or smart phone
 * access internet on that device
-* go to browser and type https://github.com/nyirahabineza/githubsearch.git
+* go to browser and type https://nyirahabineza.github.io/github
 * you have reach on it.
 
 ### Preview
- <a href="https://github.com/nyirahabineza/githubsearch.git" rel="nofollow">Click here</a>here to see the live site.
+ <a href="https://nyirahabineza.github.io/github" rel="nofollow">Click here</a>here to see the live site.
 
 ### 
 
